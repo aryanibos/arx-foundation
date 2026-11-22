@@ -1,6 +1,6 @@
 ---
 name: arx-foundation
-description: Full-lifecycle project foundation for AI coding agents, from foundation to release: agent governance, discovery and grooming, PRD and technical specs, task breakdown, build standards, review, testing, deployment, and release gates. Stack-agnostic and free: the user determines the stack and team shape. Ask-gates force real decisions at every structural choice, grounded in the user's own source document, with a decision log and a challenge step that keep the user's critical thinking alive. Use when starting a project, setting up repo governance, or running a project end to end. For deep PRD work use arx-product; for implementation arx-be; for code review arx-review.
+description: "Full-lifecycle project foundation for AI coding agents, from foundation to release: agent governance, discovery and grooming, PRD and technical specs, task breakdown, build standards, review, testing, deployment, and release gates. Stack-agnostic and free: the user determines the stack and team shape. Ask-gates force real decisions at every structural choice, grounded in the user's own source document, with a decision log and a challenge step that keep the user's critical thinking alive. Use when starting a project, setting up repo governance, or running a project end to end. For deep PRD work use arx-product; for implementation arx-be; for code review arx-review."
 ---
 
 # ARX Foundation
